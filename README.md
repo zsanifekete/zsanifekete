@@ -29,8 +29,8 @@
 </div>   
 <br />
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4" alt="zsanifekete" /> 
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zsanifekete&theme=dark-minimalist&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
+        <img  width="350px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4" alt="zsanifekete" /> 
+    <a href="https://git.io/streak-stats"><img width="370px" src="https://github-readme-streak-stats.herokuapp.com?user=zsanifekete&theme=dark-minimalist&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>   
 </p> 
 
 <!--
