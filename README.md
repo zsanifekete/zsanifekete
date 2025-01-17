@@ -64,7 +64,8 @@ Additional Tools:
 
 <p align="center">
     <!--<img  width="330px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4" /> --> 
-    <a href="https://git.io/streak-stats"><img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=zsanifekete&theme=dark-minimalist&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img width="350px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4&token=YOUR_PERSONAL_ACCESS_TOKEN
+" alt="GitHub Streak" /></a>
     <!--<img width="330px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanifekete&langs_count=8&theme=dark&hide_border=true&bg_color=211F27" alt="Most used languages" />-->
     <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanifekete&layout=compact&bg_color=211F27&hide_border=true&title_color=89B4FA&text_color=E5E5E5" alt="Most used languages" />
       
