@@ -13,27 +13,49 @@
 
 ### 👩‍💻 About me :
 
-💬 I'm passionate about frontend development and I'm constantly striving to learn new things in this field.
+- 🎓 I’m currently studying **Computer Science** at the University.
 
-- 🌱 I’m currently learning **JavaScript**.
+- 💬 I'm interested in frontend development.
 
-- ⚡ I'm improving my skills through projects and challenges.
+- 🌱 I’m currently learning **Python**.
 
-#
+- ⚡ I’m improving my skills through hands-on projects and challenges.
+
+# 
 
 ### 🛠️ Languages and Tools :
 
 <div align="center">
+<ul align="left">
+Programming languages:
+</ul>
+    <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
+<br></br>
+<ul align="left">
+Web development:
+</ul>
     <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/>
     <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/>
     <img src="https://skillicons.dev/icons?i=sass" title="SASS/SCSS" alt="SASS/SCSS"/>
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap"/>
+<br></br>
+<ul align="left">
+Development Tools:
+</ul>
+    <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code"/>
+    <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
     <img src="https://skillicons.dev/icons?i=webpack" title="Webpack" alt="Webpack"/>
-    <img src="icons/parcel-icon.png" title="Parcel" alt="Netlify" style="width: 4rem"/>
+    <img src="icons/parcel-icon.png" title="Parcel" alt="Parcel" style="width: 4rem"/>
+<br></br>
+<ul align="left">
+PLatforms and Hosting:
+</ul>
     <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify"/>
     <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel"/>
-    <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
-    <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code"/>
+<ul align="left">
+Additional Tools:
+</ul>
+    <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" alt="MATLAB"/>
 </div>
 
 #
@@ -41,8 +63,8 @@
 ### ✨ My stats :
 
 <p align="center">
-    <!--<img  width="330px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4" alt="GitHub Stats" /> --> 
-    <a href="https://git.io/streak-stats"><img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=zsanifekete&theme=dark-minimalist&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
+    <!--<img  width="330px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4" /> --> 
+    <a href="https://git.io/streak-stats"><img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=zsanifekete&theme=dark-minimalist&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
     <!--<img width="330px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanifekete&langs_count=8&theme=dark&hide_border=true&bg_color=211F27" alt="Most used languages" />-->
     <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanifekete&layout=compact&bg_color=211F27&hide_border=true&title_color=89B4FA&text_color=E5E5E5" alt="Most used languages" />
       
