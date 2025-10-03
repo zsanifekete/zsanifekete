@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v4
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: zsanifekete
           outputs: |
@@ -36,7 +36,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animations
           path: dist
