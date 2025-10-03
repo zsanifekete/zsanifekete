@@ -16,11 +16,11 @@
 - 🎓 I’m currently studying **Computer Science** at the University.
 
 - 💬 I'm interested in frontend development.
-
+<!--
 - 🌱 I’m currently learning **Python**.
-
+-->
 - ⚡ I’m improving my skills through hands-on projects and challenges.
-
+<!--
 # 
 
 ### 🛠️ Languages and Tools :
@@ -58,21 +58,35 @@ Additional Tools:
     <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" alt="MATLAB"/>
 </div>
 
-#
-
+#-->
+<!--
 ### ✨ My stats :
-
+-->
 <p align="center">
-    <!--<img  width="330px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4" /> --> 
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="GitHub Streak" />
+    <!--<img  width="330px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4" />-->
+    <!--
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=zsanifekete&show_icons=true&theme=dark&hide_border=true&title_color=E5E5E5&icon_color=D484F4&bg_color=211F27&text_color=89B4FA&ring_color=D484F4&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="GitHub Streak" /> 
     <!--<img width="330px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanifekete&langs_count=8&theme=dark&hide_border=true&bg_color=211F27" alt="Most used languages" />-->
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanifekete&layout=compact&bg_color=211F27&hide_border=true&title_color=89B4FA&text_color=E5E5E5" alt="Most used languages" />
-      
+    <!--<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanifekete&layout=compact&bg_color=211F27&hide_border=true&title_color=89B4FA&text_color=E5E5E5" alt="Most used languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zsanifekete&theme=dark&hide_border=true&background=211F27&ring=D484F4&currStreakLabel=E5E5E5" />-->
 </p> 
 
 #
 
 <h3 align="center"> Thank you for visiting my profile! 😊 </h3>
+
+<!-- Snake contribution (dark/light + cachebust) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/zsanifekete/zsanifekete/output/github-contribution-grid-snake-dark.svg?v=20251003" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/zsanifekete/zsanifekete/output/github-contribution-grid-snake.svg?v=20251003" />
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/zsanifekete/zsanifekete/output/github-contribution-grid-snake.svg?v=20251003" />
+</picture>
+
+<!-- GIF fallback (ha SVG nem megy jól) -->
+![Snake gif fallback](https://raw.githubusercontent.com/zsanifekete/zsanifekete/output/github-contribution-grid-snake.gif?v=20251003)
 
 
 <!--
