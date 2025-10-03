@@ -75,18 +75,13 @@ Additional Tools:
 
 <h3 align="center"> Thank you for visiting my profile! 😊 </h3>
 
-<!-- Snake contribution (dark/light + cachebust) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/zsanifekete/zsanifekete/output/github-contribution-grid-snake-dark.svg?v=20251003" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/zsanifekete/zsanifekete/output/github-contribution-grid-snake.svg?v=20251003" />
-  <img alt="GitHub contribution snake"
-       src="https://raw.githubusercontent.com/zsanifekete/zsanifekete/output/github-contribution-grid-snake.svg?v=20251003" />
-</picture>
+#
 
-<!-- GIF fallback (ha SVG nem megy jól) -->
-![Snake gif fallback](https://raw.githubusercontent.com/zsanifekete/zsanifekete/output/github-contribution-grid-snake.gif?v=20251003)
+<!-- SVG dark verzió -->
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/zsanifekete/zsanifekete/main/dist/github-contribution-grid-snake-dark.svg" />
+
+<!-- GIF fallback -->
+![Snake gif fallback](https://raw.githubusercontent.com/zsanifekete/zsanifekete/main/dist/github-contribution-grid-snake.gif)
 
 
 <!--
